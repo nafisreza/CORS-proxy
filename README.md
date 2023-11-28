@@ -1,5 +1,5 @@
 ## Connect Backend and Frontend
-[screencapture-localhost-5173-2023-11-29-00_01_27](https://github.com/nafisreza/baker-bank/assets/68966649/d011ac1e-d672-4cdc-9fc9-309770a2574c)
+![Project overview](https://github.com/nafisreza/baker-bank/assets/68966649/d011ac1e-d672-4cdc-9fc9-309770a2574c)
 
 ### Things learnt:
 - CORS
