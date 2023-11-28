@@ -17,15 +17,15 @@ function App() {
 
   return (
     <>
-      <h1>Welcome to Laugh Arena.</h1>
-      <p>Jokes count: {jokes.length}</p>
+      <h1>Collection of Dad Jokes.</h1>
+      <i>Jokes count: {jokes.length}</i>
 
       {
         jokes.map((joke) => (
           <div key={joke.id}>
             <hr />
-            <h4>{joke.question}</h4>
-            <h4>{joke.answer}</h4>
+            <h5>{joke.question}</h5>
+            <h5>{joke.answer}</h5>
           </div>
         ))
       }
